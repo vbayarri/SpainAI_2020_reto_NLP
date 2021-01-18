@@ -5,6 +5,11 @@ Datos: https://www.spain-ai.com/reto_NLP_2020.zip
 
 Demuestra tus habilidades como Data Scientist en el reto de Procesamiento del Lenguaje Natural. En este reto no se pide una simple clasificación, sino la generación del nombre de un producto en base a la descripción del mismo.
 
+# Configuración del entorno de trabajo
+https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228
+
+El objetivo de la configuración es trabajar en Google Collab manteniendo los fuentes y datos sincronizados con GitHub.
+
 # Notas del análisis realizado de los datos
 
 Proviene de un dataset de Zara por los motivos siguientes:
